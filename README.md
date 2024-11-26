@@ -3,5 +3,5 @@
 # Run the Node
 
 ```bash
-wget -q https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/Multiple.sh && chmod +x Multiple.sh && ./Multiple.sh
+wget -q https://raw.githubusercontent.com/cervus-snoopy/Airdropnode/refs/heads/main/Glacier.sh -O Glacier.sh && chmod +x Glacier.sh && ./Glacier.sh
 ```
